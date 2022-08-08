@@ -1,6 +1,6 @@
 import React from "react";
 
 function App() {
-  return <h1 className="heading">Hello GSK
-
+  return <h1>Hello GSK</h1>
+}
 export default App;
