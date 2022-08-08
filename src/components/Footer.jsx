@@ -1,9 +1,11 @@
 import React from "react";
 
+const curryear = new Date();
+
 function Footer() {
   return (
   <footer>
-      <p>Copyright @ 2022</p>
+      <p>Copyright @ {curryear}</p>
     </footer>
   );
 }
