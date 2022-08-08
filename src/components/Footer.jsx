@@ -1,6 +1,6 @@
 import React from "react";
 
-const curryear = new Date();
+const curryear = new Date().getFullYear();
 
 function Footer() {
   return (
